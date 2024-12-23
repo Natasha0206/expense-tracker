@@ -33,4 +33,4 @@ Here are the key features listed in point form:
 
 ![Screenshot (670)](https://github.com/user-attachments/assets/b5d7685f-f825-4f04-b3e8-9cbb76136022)
 
-![Screenshot (669)](https://github.com/user-attachments/assets/1678bbaa-25f0-4821-8433-aa39d56f1072)
+

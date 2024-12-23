@@ -1,4 +1,4 @@
-#Expense Tracker
+## Expense Tracker
 
 This application helps you track your income and expenses effectively.
 

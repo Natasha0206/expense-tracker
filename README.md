@@ -14,15 +14,6 @@ Reminders: Set reminders for upcoming bills and payments.
 Secure Data: Protect your financial data with strong encryption and secure authentication.
 Getting Started:
 
-Installation:
-
-[Choose your preferred method]
-Download and Install: Download the installer from [link to download] and follow the on-screen instructions.
-Build from Source:
-Clone the repository: git clone [repository URL]
-Install dependencies: [command to install dependencies]
-Build and run the application: [command to build and run]
-Create an Account: Register a new account or log in with existing credentials.
 
 Start Tracking:
 

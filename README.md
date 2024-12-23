@@ -4,18 +4,17 @@ This application helps you track your income and expenses effectively.
 
 Features:
 
-Add Income and Expenses: Easily record your income sources (salary, freelance, etc.) and expenses (groceries, rent, entertainment, etc.).
-Categorize Transactions: Assign categories to your transactions (e.g., "Food," "Transportation," "Entertainment," "Bills") for better budgeting and analysis.
-Set Budgets: Create monthly or weekly budgets for different categories to stay within your financial limits.
-Track Spending Trends: Visualize your spending patterns over time with charts and graphs.
-Generate Reports: Create customized reports to analyze your spending habits, identify areas for improvement, and track your progress towards financial goals.
-Multiple Accounts: Manage expenses and income across multiple accounts (e.g., bank accounts, credit cards).
-Reminders: Set reminders for upcoming bills and payments.
-Secure Data: Protect your financial data with strong encryption and secure authentication.
-Getting Started:
+Here are the key features listed in point form:
 
+- Income & Expense Tracking
 
-Start Tracking:
+- Visualize spending patterns with charts and graphs
+
+- Set reminders for upcoming bills and payments
+  
+- Data Security: Protect financial data with strong encryption and secure authenticatio
+
+# Start Tracking:
 
 Add income sources.
 Record your expenses.

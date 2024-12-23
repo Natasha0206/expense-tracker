@@ -14,7 +14,7 @@ Here are the key features listed in point form:
   
 - Data Security: Protect financial data with strong encryption and secure authenticatio
 
-# Start Tracking:
+### Start Tracking:
 
 Add income sources.
 Record your expenses.
